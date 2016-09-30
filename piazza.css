@@ -1,0 +1,6 @@
+#irc-iframe-div {
+    position: fixed;
+    top: 33px;
+    height: calc(100% - 33px);
+    width: 100%;
+}
